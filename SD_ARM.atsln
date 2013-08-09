@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "SD_ARM", "SD_ARM\SD_ARM.cproj", "{16E8FA64-5E18-4A6E-B991-1B61EF8636BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16E8FA64-5E18-4A6E-B991-1B61EF8636BB}.Debug|ARM.ActiveCfg = Debug|ARM
+		{16E8FA64-5E18-4A6E-B991-1B61EF8636BB}.Debug|ARM.Build.0 = Debug|ARM
+		{16E8FA64-5E18-4A6E-B991-1B61EF8636BB}.Release|ARM.ActiveCfg = Release|ARM
+		{16E8FA64-5E18-4A6E-B991-1B61EF8636BB}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
